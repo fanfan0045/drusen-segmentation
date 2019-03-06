@@ -16,4 +16,4 @@ DRIVE dataset available: https://www.isi.uu.nl/Research/Databases/DRIVE/
     
 2. To test the model based on test data:
 
-    main_test.m(test_patches.m; test_evaluation.m )
+    main_test.m (test_patches.m; test_evaluation.m)
