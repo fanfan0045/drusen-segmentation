@@ -2,10 +2,10 @@
 This is the implementation code for paper submitted to Bioinformatics: "Unsupervised deep feature extraction via adaptive collaborative learning for drusen segmentation of fundus images".
 
 # required environment
-C++, matlab， 
+C++, matlab 
 
 # Datasets
-DRIVE dataset available: http://cecas.clemson.edu/~ahoover/stare/
+STARE dataset available: http://cecas.clemson.edu/~ahoover/stare/
 DRIVE dataset available: https://www.isi.uu.nl/Research/Databases/DRIVE/
 
 # Code
