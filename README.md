@@ -11,6 +11,9 @@ DRIVE dataset available: https://www.isi.uu.nl/Research/Databases/DRIVE/
 
 # Code
 1. To train deep_net and SVM classifier based on training data:
+
     main_train.m (drusen_segmentation_demo.m; training.m; net_struc,m; updating_net.m)
+    
 2. To test the model based on test data:
+
     main_test.m(test_patches.m; test_evaluation.m )
