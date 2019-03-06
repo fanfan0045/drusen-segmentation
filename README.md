@@ -10,7 +10,7 @@ STARE dataset available: http://cecas.clemson.edu/~ahoover/stare/
 DRIVE dataset available: https://www.isi.uu.nl/Research/Databases/DRIVE/
 
 # Code
-1. To train deep_net and SVM classifier based on training data:
+1. To train deep_net and SVM classifier based on train data:
 
     main_train.m (drusen_segmentation_demo.m; training.m; net_struc,m; updating_net.m)
     
